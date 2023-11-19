@@ -46,7 +46,7 @@
 - Description: Retrieves logs based on specified filters such as level, message, resourceId, timestamp, etc.
 - Usage: Use the API endpoint with filters or the provided user interface to get logs based on filter criteria.
 
-## Usage for Developers
+## Getting Started
 
 ### Clone the Repository
 
