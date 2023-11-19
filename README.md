@@ -28,7 +28,7 @@ git clone git@github.com:PrateekSrivastava1/Log-Ingestor-and-Query-Interface.git
 ### Navigate to 'log-ingester' and 'query-interface' folders.
 
 ```
-cd log-ingester
+cd Log-ingester
 ```
 
 ```
@@ -50,7 +50,7 @@ npm install
 - Add the MongoDB URL in the .env file.
 
 ```
-MONGODB_URL=your_mongodb_connection_string_here
+DB_URL=mongodb://localhost:27017/log-ingester
 ```
 
 ### App Screenshots for your referrence
