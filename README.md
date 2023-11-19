@@ -22,18 +22,26 @@
 ### Clone the Repository
 
 ```bash
-git clone <repository_url>
+git clone git@github.com:PrateekSrivastava1/Log-Ingestor-and-Query-Interface.git
 ```
 
-## Usage for Developers
+### Navigate to 'log-ingester' and 'query-interface' folders.
 
-- Navigate to 'log-ingester' and 'query-interface' folders.
-
+```
 cd log-ingester
-npm install
+```
 
-cd query-interface
+```
 npm install
+```
+
+```
+cd query-interface
+```
+
+```
+npm install
+```
 
 ## MongoDB Configuration
 
@@ -44,3 +52,5 @@ npm install
 ```
 MONGODB_URL=your_mongodb_connection_string_here
 ```
+
+### App Screenshots for your referrence
