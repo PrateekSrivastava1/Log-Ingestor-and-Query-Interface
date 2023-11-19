@@ -1,5 +1,28 @@
 # Log Ingester and Query Interface
 
+## Components
+
+- Log Ingestor: Responsible for receiving and storing logs.
+- Query Interface: Facilitates querying and retrieving logs based on filters.
+
+### Technologies Used
+
+- Backend: Node.js, Express.js, Mongoose
+- Frontend: React.js
+- Other Tools: MongoDB Compass (for database management)
+
+### API Endpoints
+
+- Create Log `http://localhost:3000/api/logs/create`
+- Fetch Logs `http://localhost:3000/api/logs/getFilteredLogs`
+
+### Scalability and Performance
+
+- Database indexing
+- Code:
+
+- Screenshot from MongoDB Compass
+
 ## Features
 
 ### 1. Add Logs
@@ -56,11 +79,13 @@ DB_URL=mongodb://localhost:27017/log-ingester
 ## App Screenshots for your referrence
 
 ## Create Logs
+
 <img width="1512" alt="Screenshot 2023-11-19 at 2 37 02 PM" src="https://github.com/PrateekSrivastava1/Log-Ingestor-and-Query-Interface/assets/65366517/53408026-4fe5-4912-9bf7-18a808421459">
 
 ## Fetch All Logs
+
 <img width="1512" alt="Screenshot 2023-11-19 at 2 36 57 PM" src="https://github.com/PrateekSrivastava1/Log-Ingestor-and-Query-Interface/assets/65366517/1c669c05-dc49-41ad-b2fe-e58e7665915e">
 
 ## Filter Logs
-<img width="1512" alt="Screenshot 2023-11-19 at 2 37 08 PM" src="https://github.com/PrateekSrivastava1/Log-Ingestor-and-Query-Interface/assets/65366517/a5fd877d-670c-48b3-85c2-bbbe4fa49843">
 
+<img width="1512" alt="Screenshot 2023-11-19 at 2 37 08 PM" src="https://github.com/PrateekSrivastava1/Log-Ingestor-and-Query-Interface/assets/65366517/a5fd877d-670c-48b3-85c2-bbbe4fa49843">
