@@ -19,9 +19,9 @@
 ### Scalability and Performance
 
 - Database indexing
-- Code:
-
 - Screenshot from MongoDB Compass
+  <img width="1251" alt="Screenshot 2023-11-19 at 2 53 41 PM" src="https://github.com/PrateekSrivastava1/Log-Ingestor-and-Query-Interface/assets/65366517/f17b5429-b7f1-40d2-bba0-427fc80a77e3">
+
 
 ## Features
 
@@ -48,7 +48,7 @@
 git clone git@github.com:PrateekSrivastava1/Log-Ingestor-and-Query-Interface.git
 ```
 
-### Navigate to 'log-ingester' and 'query-interface' folders.
+### Navigate to 'Log-ingester' and 'query-interface' folders.
 
 ```
 cd Log-ingester
@@ -89,3 +89,7 @@ DB_URL=mongodb://localhost:27017/log-ingester
 ## Filter Logs
 
 <img width="1512" alt="Screenshot 2023-11-19 at 2 37 08 PM" src="https://github.com/PrateekSrivastava1/Log-Ingestor-and-Query-Interface/assets/65366517/a5fd877d-670c-48b3-85c2-bbbe4fa49843">
+
+
+
+
