@@ -72,7 +72,7 @@ cd query-interface
 npm install
 ```
 
-## MongoDB Configuration
+### MongoDB Configuration
 
 - Install MongoDB Compass or use any preferred MongoDB management tool.
 - Create a .env file in the 'log-ingester' folder.
@@ -80,6 +80,24 @@ npm install
 
 ```
 DB_URL=mongodb://localhost:27017/log-ingester
+```
+
+### How to run this app?
+
+```
+cd Log-ingester
+```
+
+```
+npm start
+```
+
+```
+cd query-interface
+```
+
+```
+npm start
 ```
 
 ## App Screenshots for your referrence
