@@ -7,8 +7,8 @@
 
 ### Technologies Used
 
-- Backend: Node.js, Express.js, Mongoose
-- Frontend: React.js
+- Backend: https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white, https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white, https://img.shields.io/badge/Mongoose-4EA94B?style=for-the-badge&logo=mongoose&logoColor=white
+- Frontend: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 - Other Tools: MongoDB Compass (for database management)
 
 ### API Endpoints
@@ -20,8 +20,8 @@
 
 - Database indexing
 - Screenshot from MongoDB Compass
-  <img width="1251" alt="Screenshot 2023-11-19 at 2 53 41 PM" src="https://github.com/PrateekSrivastava1/Log-Ingestor-and-Query-Interface/assets/65366517/f17b5429-b7f1-40d2-bba0-427fc80a77e3">
 
+  <img width="1251" alt="Screenshot 2023-11-19 at 2 53 41 PM" src="https://github.com/PrateekSrivastava1/Log-Ingestor-and-Query-Interface/assets/65366517/f17b5429-b7f1-40d2-bba0-427fc80a77e3">
 
 ## Features
 
@@ -89,7 +89,3 @@ DB_URL=mongodb://localhost:27017/log-ingester
 ## Filter Logs
 
 <img width="1512" alt="Screenshot 2023-11-19 at 2 37 08 PM" src="https://github.com/PrateekSrivastava1/Log-Ingestor-and-Query-Interface/assets/65366517/a5fd877d-670c-48b3-85c2-bbbe4fa49843">
-
-
-
-
